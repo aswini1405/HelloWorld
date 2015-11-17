@@ -10,4 +10,4 @@ Android Studio 1.2.1.1/Jetbrains IDE 14.1.5
 Gradle
 Github for Windows (for deployment)
 ```
-![](https://github.com/aswini1405/HelloWorld/tree/master/screenshot/helloworld.png)
+![](https://github.com/aswini1405/HelloWorld/blob/master/screenshot/helloworld.png)
